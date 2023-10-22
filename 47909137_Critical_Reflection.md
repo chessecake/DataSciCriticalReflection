@@ -1,19 +1,15 @@
 ## Reflective Report
-Through my progression of my data science course I have developed my skills of comprehension on data, identification and analysis of data. The macro skills gained from this course have been one of the most beneficial features of this course, being able to apply theoretical formulas to real world datasets has allowed me to expand my skill set which can be applied to future computer science projects including Version control, logical problem solving and time management.
+Through my progression of my data science course I have developed my skills of comprehension on data, identification and analysis of data. The technical skills gained from this course have been one of the most beneficial features of this course, being able to apply theoretical concepts to real world datasets has allowed me to expand my skill set which can be applied to future computer science projects including version control, logical problem solving and time management. The use of python as the main language for analysis of datasets proved challenging due to never having programed with it directly, making the move from a more defined language of java to a more assistive language in python required me to change my processes to ensure I was achieving the results I required. Python proves itself as a very versatile language with the scope of modification that can be added to it and I can see incorporating Python into future projects in computer science.
 
 ### Foundations
-Solid understanding of data science, requires understanding of the CRISP-DM methodology, the use of this method provides a repeatable and sound method for the identification of patterns in data in the case of a classification problem and important fields of data that can be predicted using influential data. This can be seen implemented in my portfolio 4 where I identified a need for future data prediction,
-Understanding of the data provided is the second pivotal step
+Solid understanding of data science requires understanding of the CRISP-DM methodology, the use of this method provides a repeatable and sound method for the identification of patterns in data in the case of a classification problem and important fields of data that can be predicted using influential data. This can be seen implemented in my portfolio 4 where I identified a need for future data prediction, this comes from a scientific need where the pursuit of further knowledge drives the goal. Macquarie Park being a highly developed urban area suffers from fluctuating air quality due to many factors, my research question focused on trying to see if its possible to predict future air quality from measurable indicators of human activity, such as pedestrian traffic counts, humidity and temperature.  
+
+Understanding of the data provided is the second pivotal step, being able to clean the data of noise and irrelevant categories allows creation of a more accurate and efficient model, for example the dataset I was able to collect from a collection of individual months on average only had 30% of the data intact after periods of down time, even though machine models have advanced very far the job of a data scientist still heavily revolves around understanding the data provided and tuning it down to a manageable and correct input for the models to be trained on.  
+
+
+Building the model requires careful decision making to ensure the highest accuracy can be achieved, the type of dataset we have can help determine this, my dataset consisted of continuous numeric values which indicates perhaps the most useful model would be a linear regression model, experimentation then testing of other models can also reveal more superior models. The reforming of the dataset into categorical variables such as "good" and "bad" weather allows use of classification models such as nearest neighbor classification.
+
 ***
 ### Future Uses
 I see data science as an important tool in the field of cyber security. The level of data a business will produce in a given day is unable to be processed manually in a time that is able to be actionable, this is where computer processes are required to be able to provide insight into patterns that are unseen. one of data science's biggest selling point in cyber security is the field of AI based monitoring and detection, particularly in products known as system information and event management (SIEM). The collection of log data from a variety data sources is combined into one dataset to which different neural network models can be applied to detect minute changes in computer networks that would otherwise be imperceivable to technicians.
-
-
-### Portfolio 4 Reflection
-Dataset choice
-
-The choice of linear regression
-
-Improvements
-    RFECV feature selection
 
